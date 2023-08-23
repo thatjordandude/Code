@@ -3,7 +3,7 @@ print(filecount)
 print(filecount['txt'])
 print('jpg' in filecount)
 
-#dictionary are mutable
+# dictionary are mutable
 filecount['cfg'] = 8
 print(filecount)
 
