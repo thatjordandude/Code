@@ -1,2 +1,1 @@
-# Code
- All things code
+# My beginner python scripts
